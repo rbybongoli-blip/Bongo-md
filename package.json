@@ -1,0 +1,15 @@
+{
+  "name": "bongo-md",
+  "version": "1.0.0",
+  "description": "BONGO-MD WhatsApp Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
